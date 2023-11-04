@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "38c1a1db96df6f44",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7175368959a42e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a0528916fcec980",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e28c36b6274342a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b1232d48b4fece0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd5224aff43b7985",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86919c88b2c8694c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "318312f276190b87",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e9e974b42ac2686e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a9a6e4a61061f537",
+    "type": "split",
+    "children": [
+      {
+        "id": "400d086c41f84bbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98dd4ee512de50f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "班会.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "333856b5936d920c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "班会.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "134e9b0d13fe7d37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "525101a490a7eeb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "班会.md"
+              }
+            }
+          },
+          {
+            "id": "768263c563919ad5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "cd5224aff43b7985",
+  "lastOpenFiles": [
+    "School/Biology",
+    "School/New folder",
+    "School",
+    "New folder",
+    "Corridor of Darkness.md",
+    "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw",
+    "班会.md",
+    "Games",
+    "7HMakers/G1Up/7H Makers Lesson 3.md",
+    "Neural Network/GAN.md",
+    "7HMakers/G1Up/AI 学习计划.md",
+    "Test.md",
+    "$x = (x_1, x_2, ……， x_n)$ Untitled 1.md",
+    "Neural Network",
+    "诺亚/也许忘记.md",
+    "诺亚/也许忘记 下.md",
+    "00EF795B.png",
+    "未命名.md",
+    "渚/Diary/6.6 渚.md",
+    "美游/只要目光紧锁，你就是天边星辰.md",
+    "渚/Diary/6.5 老师.md",
+    "渚/Diary/6.5 渚.md",
+    "诺亚/淅沥雨水，是我对你的思念.md",
+    "诺亚/如果注定忘记.md",
+    "渚/HelloWorld.md",
+    "未命名",
+    "诺亚",
+    "美游",
+    "0008FEEA.png",
+    "渚/Diary",
+    "考试总结/高一下册半期考/英语.md",
+    "考试总结/高一下册半期考/能力问题.md",
+    "Math/MathFrameWork/Vector.md",
+    "考试总结/高一上册期末考/数学.md",
+    "考试总结/高一上册期末考/物理.md",
+    "未命名.canvas",
+    "考试总结/高一上册期末考/化学.md"
+  ]
+}
