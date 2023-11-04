@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "720531f783496725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d741f38bd107985a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
+                "file": "School/Biology/体液调节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
+                "file": "School/Biology/体液调节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           },
@@ -157,8 +144,19 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "8bf573142c3b98b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "School/Biology/体液调节.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,11 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd5224aff43b7985",
+  "active": "d741f38bd107985a",
   "lastOpenFiles": [
-    "School/Biology/体液调节.md",
-    "Excalidraw/Drawing 2023-11-04 19.02.09.excalidraw.md",
     "Untitled.md",
+    "School/Biology/体液调节.md",
+    "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-04 19.02.09.excalidraw.md",
     "Untitled 1.md",
     "Neural Network/GAN.md",
     "Imgs",
@@ -190,7 +189,6 @@
     "School",
     "New folder",
     "Corridor of Darkness.md",
-    "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
     "Excalidraw",
     "Games",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
