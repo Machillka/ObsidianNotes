@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md",
+                "file": "School/Biology/体液调节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md",
+                "file": "School/Biology/体液调节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           },
@@ -175,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d741f38bd107985a",
+  "active": "cd5224aff43b7985",
   "lastOpenFiles": [
     "Untitled.md",
-    "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md",
+    "School/Biology/体液调节.md",
     "Untitled 1.md",
     "Neural Network/GAN.md",
     "Imgs",
