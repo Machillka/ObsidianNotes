@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d741f38bd107985a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md"
               }
             }
           },
@@ -164,11 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd5224aff43b7985",
+  "active": "d741f38bd107985a",
   "lastOpenFiles": [
-    "Neural Network/GAN.md",
-    "Untitled 1.md",
     "Untitled.md",
+    "School/Biology/Drawing 2023-11-04 18.40.46.excalidraw.md",
+    "Untitled 1.md",
+    "Neural Network/GAN.md",
     "Imgs",
     "Untitled",
     "班会.md",
