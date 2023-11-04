@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7175368959a42e",
+        "id": "86eb01ec0a0442c4",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0528916fcec980",
+            "id": "720531f783496725",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "班会.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "班会.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "班会.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -162,18 +166,21 @@
   },
   "active": "cd5224aff43b7985",
   "lastOpenFiles": [
+    "Neural Network/GAN.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Imgs",
+    "Untitled",
+    "班会.md",
     "School/Biology",
     "School/New folder",
     "School",
     "New folder",
     "Corridor of Darkness.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
-    "班会.md",
     "Games",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
-    "Neural Network/GAN.md",
     "7HMakers/G1Up/AI 学习计划.md",
     "Test.md",
     "$x = (x_1, x_2, ……， x_n)$ Untitled 1.md",
@@ -190,16 +197,12 @@
     "诺亚/如果注定忘记.md",
     "渚/HelloWorld.md",
     "未命名",
-    "诺亚",
-    "美游",
     "0008FEEA.png",
-    "渚/Diary",
     "考试总结/高一下册半期考/英语.md",
     "考试总结/高一下册半期考/能力问题.md",
     "Math/MathFrameWork/Vector.md",
     "考试总结/高一上册期末考/数学.md",
     "考试总结/高一上册期末考/物理.md",
-    "未命名.canvas",
-    "考试总结/高一上册期末考/化学.md"
+    "未命名.canvas"
   ]
 }
