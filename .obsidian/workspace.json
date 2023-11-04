@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Biology/体液调节.md"
+                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Biology/体液调节.md",
+                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Biology/体液调节.md",
+                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Biology/体液调节.md"
+                "file": "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md"
               }
             }
           },
@@ -175,10 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d741f38bd107985a",
+  "active": "cd5224aff43b7985",
   "lastOpenFiles": [
-    "Untitled.md",
     "School/Biology/体液调节.md",
+    "Excalidraw/Drawing 2023-11-04 19.02.09.excalidraw.md",
+    "Untitled.md",
     "Untitled 1.md",
     "Neural Network/GAN.md",
     "Imgs",
@@ -214,7 +215,6 @@
     "考试总结/高一下册半期考/能力问题.md",
     "Math/MathFrameWork/Vector.md",
     "考试总结/高一上册期末考/数学.md",
-    "考试总结/高一上册期末考/物理.md",
     "未命名.canvas"
   ]
 }
