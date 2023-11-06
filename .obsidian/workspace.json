@@ -11,11 +11,9 @@
             "id": "d741f38bd107985a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Corridor of Darkness.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Biology/体液调节.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corridor of Darkness.md",
+                "file": "School/Biology/体液调节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corridor of Darkness.md",
+                "file": "School/Biology/体液调节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corridor of Darkness.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           },
@@ -153,7 +151,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Corridor of Darkness.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           }
@@ -177,10 +175,10 @@
   },
   "active": "d741f38bd107985a",
   "lastOpenFiles": [
+    "Corridor of Darkness.md",
     "Untitled.md",
     "School/Biology/体液调节.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
-    "Corridor of Darkness.md",
     "Excalidraw/Drawing 2023-11-04 19.02.09.excalidraw.md",
     "Untitled 1.md",
     "Neural Network/GAN.md",
