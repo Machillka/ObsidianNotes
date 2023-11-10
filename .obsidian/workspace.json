@@ -11,26 +11,13 @@
             "id": "ceb4541438d5e86b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb05453409fa9c98",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "School/Biology/体液调节.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,11 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb05453409fa9c98",
+  "active": "ceb4541438d5e86b",
   "lastOpenFiles": [
-    "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
     "7HMakers/G1Up/AI 学习计划.md",
+    "School/Biology/体液调节.png",
     "School/Biology/体液调节.md",
+    "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
     "Corridor of Darkness.md",
     "2023-11-06.md",
     "Untitled.md",
@@ -225,7 +213,6 @@
     "未命名",
     "0008FEEA.png",
     "考试总结/高一下册半期考/英语.md",
-    "考试总结/高一下册半期考/能力问题.md",
     "未命名.canvas"
   ]
 }
