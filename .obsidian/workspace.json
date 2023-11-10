@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb05453409fa9c98",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Biology/体液调节.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "School/Biology/体液调节.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "School/Biology/体液调节.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md"
+                "file": "School/Biology/体液调节.md"
               }
             }
           }
@@ -162,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ceb4541438d5e86b",
+  "active": "cb05453409fa9c98",
   "lastOpenFiles": [
+    "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
+    "7HMakers/G1Up/AI 学习计划.md",
     "School/Biology/体液调节.md",
     "Corridor of Darkness.md",
     "2023-11-06.md",
@@ -195,7 +208,6 @@
     "Excalidraw",
     "Games",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
-    "7HMakers/G1Up/AI 学习计划.md",
     "Test.md",
     "$x = (x_1, x_2, ……， x_n)$ Untitled 1.md",
     "Neural Network",
@@ -214,7 +226,6 @@
     "0008FEEA.png",
     "考试总结/高一下册半期考/英语.md",
     "考试总结/高一下册半期考/能力问题.md",
-    "Math/MathFrameWork/Vector.md",
     "未命名.canvas"
   ]
 }
