@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "7HMakers/G1Up/CNN.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "7HMakers/G1Up/CNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "7HMakers/G1Up/CNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md"
+                "file": "7HMakers/G1Up/CNN.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md"
+                "file": "7HMakers/G1Up/CNN.md"
               }
             }
           }
@@ -177,10 +177,11 @@
   },
   "active": "ceb4541438d5e86b",
   "lastOpenFiles": [
+    "7HMakers/G1Up/AI 学习计划.md",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
+    "7HMakers/G1Up/CNN.md",
     "班会.md",
     "School/Biology/体液调节.md",
-    "7HMakers/G1Up/AI 学习计划.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
     "Games/Corridor of Darkness.md",
