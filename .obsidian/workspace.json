@@ -11,11 +11,9 @@
             "id": "ceb4541438d5e86b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "班会.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md"
               }
             }
           },
@@ -23,14 +21,15 @@
             "id": "5c4e3eed8277e8ae",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md"
+                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 319.0041847229004
   },
   "right": {
     "id": "a9a6e4a61061f537",
@@ -186,13 +185,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c4e3eed8277e8ae",
+  "active": "cd5224aff43b7985",
   "lastOpenFiles": [
+    "班会.md",
     "7HMakers/G1Up/AI 学习计划.md",
-    "7HMakers/G1Up/7H Makers Lesson 3.md",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "7HMakers/G1Up/CNN.md",
-    "班会.md",
+    "7HMakers/G1Up/7H Makers Lesson 3.md",
     "School/Biology/体液调节.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
