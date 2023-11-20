@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c4e3eed8277e8ae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "班会.md",
+                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "班会.md",
+                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "班会.md"
+                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "班会.md"
+                "file": "Drawing 2023-11-20 16.20.02.excalidraw.md"
               }
             }
           }
@@ -175,12 +186,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ceb4541438d5e86b",
+  "active": "5c4e3eed8277e8ae",
   "lastOpenFiles": [
+    "班会.md",
+    "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "7HMakers/G1Up/CNN.md",
     "7HMakers/G1Up/AI 学习计划.md",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
-    "班会.md",
     "School/Biology/体液调节.md",
     "Untitled.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
@@ -215,7 +227,6 @@
     "渚/HelloWorld.md",
     "未命名",
     "0008FEEA.png",
-    "考试总结/高一下册半期考/英语.md",
     "未命名.canvas"
   ]
 }
