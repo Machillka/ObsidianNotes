@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "001bb02d9c2dc884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/DQN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7HMakers/G1Up/7H Makers Lesson 3.md",
+                "file": "AI/DQN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7HMakers/G1Up/7H Makers Lesson 3.md",
+                "file": "AI/DQN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7HMakers/G1Up/7H Makers Lesson 3.md"
+                "file": "AI/DQN.md"
               }
             }
           },
@@ -153,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "7HMakers/G1Up/7H Makers Lesson 3.md"
+                "file": "AI/DQN.md"
               }
             }
           }
@@ -175,8 +188,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c4e3eed8277e8ae",
+  "active": "001bb02d9c2dc884",
   "lastOpenFiles": [
+    "7HMakers/G1Up/7H Makers Lesson 3.md",
+    "AI/DQN.md",
+    "AI",
     "7HMakers/G1Up/AI 学习计划.md",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
@@ -184,7 +200,6 @@
     "Untitled.md",
     "School/English",
     "7HMakers/G1Up/CNN.md",
-    "7HMakers/G1Up/7H Makers Lesson 3.md",
     "班会.md",
     "School/Biology/体液调节.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
@@ -192,10 +207,8 @@
     "2023-11-06.md",
     "School/Biology/体液调节.png",
     "Excalidraw/Drawing 2023-11-04 19.02.09.excalidraw.md",
-    "Untitled 1.md",
     "Neural Network/GAN.md",
     "Imgs",
-    "Untitled",
     "School/Biology",
     "School/New folder",
     "School",
@@ -214,7 +227,6 @@
     "渚/Diary/6.5 老师.md",
     "渚/Diary/6.5 渚.md",
     "诺亚/淅沥雨水，是我对你的思念.md",
-    "诺亚/如果注定忘记.md",
     "0008FEEA.png",
     "未命名.canvas"
   ]
