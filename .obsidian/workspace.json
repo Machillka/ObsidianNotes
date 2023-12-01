@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/DQN.md",
+                "file": "7HMakers/G1Up/AI 学习计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/DQN.md",
+                "file": "7HMakers/G1Up/AI 学习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/DQN.md",
+                "file": "7HMakers/G1Up/AI 学习计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/DQN.md"
+                "file": "7HMakers/G1Up/AI 学习计划.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI/DQN.md"
+                "file": "7HMakers/G1Up/AI 学习计划.md"
               }
             }
           }
@@ -190,8 +190,8 @@
   },
   "active": "001bb02d9c2dc884",
   "lastOpenFiles": [
-    "7HMakers/G1Up/7H Makers Lesson 3.md",
     "AI/DQN.md",
+    "7HMakers/G1Up/7H Makers Lesson 3.md",
     "AI",
     "7HMakers/G1Up/AI 学习计划.md",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
