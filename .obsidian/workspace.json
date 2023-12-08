@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a692a8c894b37986",
+        "id": "4a90c8a605128060",
         "type": "tabs",
         "children": [
           {
-            "id": "735e8b161dfe5c89",
+            "id": "5f226cde880bf208",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -91,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,20 +165,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "735e8b161dfe5c89",
+  "active": "5f226cde880bf208",
   "lastOpenFiles": [
+    "Untitled.md",
+    "School/English/WordsList.md",
+    "School/Biology/体液调节.md",
+    "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
     "7HMakers/G1Up/CNN.md",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
     "7HMakers/G1Up/AI 学习计划.md",
     "AI/DQN.md",
     "AI",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
-    "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
-    "School/English/WordsList.md",
-    "Untitled.md",
     "School/English",
     "班会.md",
-    "School/Biology/体液调节.md",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
     "Games/Corridor of Darkness.md",
     "2023-11-06.md",
