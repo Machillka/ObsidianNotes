@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d35cc403804ff97d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md"
               }
             }
           },
@@ -166,7 +176,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md"
               }
             }
           }
@@ -188,10 +198,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e4aedb02a20eb933",
+  "active": "d35cc403804ff97d",
   "lastOpenFiles": [
-    "班会.md",
     "Untitled 1.md",
+    "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
+    "班会.md",
     "Untitled.md",
     "School/English/WordsList.md",
     "School/Biology/体液调节.md",
@@ -227,7 +238,6 @@
     "美游/只要目光紧锁，你就是天边星辰.md",
     "渚/Diary/6.5 老师.md",
     "渚/Diary/6.5 渚.md",
-    "诺亚/淅沥雨水，是我对你的思念.md",
     "0008FEEA.png",
     "未命名.canvas"
   ]
