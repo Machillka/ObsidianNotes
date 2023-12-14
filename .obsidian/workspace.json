@@ -45,11 +45,9 @@
             "id": "81c949bd1a371c7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md"
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md"
               }
             }
           },
@@ -188,7 +186,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled 2.md"
+                "file": "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md"
               }
             }
           }
@@ -212,8 +210,9 @@
   },
   "active": "81c949bd1a371c7a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
+    "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "Untitled 2.md",
+    "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
     "Untitled 1.md",
     "班会.md",
     "Untitled.md",
@@ -225,7 +224,6 @@
     "7HMakers/G1Up/AI 学习计划.md",
     "AI/DQN.md",
     "AI",
-    "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "School/English",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
     "Games/Corridor of Darkness.md",
