@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "acdaacc33d221fc8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7HMakers/工程笔记/Engineering Notebook.md",
+                "file": "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7HMakers/工程笔记/Engineering Notebook.md",
+                "file": "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7HMakers/工程笔记/Engineering Notebook.md"
+                "file": "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md"
               }
             }
           },
@@ -153,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "7HMakers/工程笔记/Engineering Notebook.md"
+                "file": "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md"
               }
             }
           }
@@ -172,14 +183,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "857ac97654a3af70",
+  "active": "acdaacc33d221fc8",
   "lastOpenFiles": [
+    "7HMakers/工程笔记/Engineering Notebook.md",
+    "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
     "Imgs/IMG_20231213_210137.jpg",
     "Imgs/IMG_20231213_210134.jpg",
-    "7HMakers/工程笔记/Engineering Notebook.md",
     "Imgs/IMG_20231218_212313_1.jpg",
     "Imgs/IMG_20231218_212431.jpg",
     "Imgs/vlcsnap-2023-12-21-11h54m49s612.png",
@@ -188,7 +201,6 @@
     "Imgs/IMG_20231218_211854.jpg",
     "Imgs/IMG_20231218_211851.jpg",
     "Imgs/IMG_20231218_131257.jpg",
-    "Imgs/IMG_20231218_130431.jpg",
     "7HMakers/工程笔记",
     "班会.md",
     "Untitled 1.md",
