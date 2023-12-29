@@ -23,9 +23,11 @@
             "id": "81d8e1c80ca7e33c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -166,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -191,6 +193,10 @@
   },
   "active": "81d8e1c80ca7e33c",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "班会.md",
     "7HMakers/工程笔记/Engineering Notebook.md",
     "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
     "Imgs/IMG_20231213_210137.jpg",
@@ -204,12 +210,8 @@
     "Imgs/IMG_20231218_211851.jpg",
     "Imgs/IMG_20231218_131257.jpg",
     "7HMakers/工程笔记",
-    "班会.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
     "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
-    "Untitled.md",
     "School/English/WordsList.md",
     "School/Biology/体液调节.md",
     "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
