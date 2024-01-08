@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "7HMakers/G1Up/AI 学习计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "7HMakers/G1Up/AI 学习计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "7HMakers/G1Up/AI 学习计划.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Untitled.md"
+                "file": "7HMakers/G1Up/AI 学习计划.md"
               }
             }
           }
@@ -191,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "81d8e1c80ca7e33c",
+  "active": "857ac97654a3af70",
   "lastOpenFiles": [
-    "Untitled 2.md",
     "Untitled.md",
+    "Untitled 2.md",
     "Untitled 1.md",
     "班会.md",
     "7HMakers/工程笔记/Engineering Notebook.md",
