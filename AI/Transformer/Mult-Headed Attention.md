@@ -10,10 +10,9 @@
 ## 自注意力操作过程
 
 1. 先对于输入进行 embedding 操作，再嵌入单词位置信息，得到处理后的向量X
-2. 得到$X*Q = Q', X*V = V', X*K = K'$ 
-3. 对于 $Q' * K'^T = Res_1$ 相当于一次查询，对于当前输入信息的一次查询
-4. 将查询的结果 $Res_1$ 进行 $res = Softmax(\sqrt{Res_1}) \times V'$ 得到梯度比较平滑的注意力
-5. 将 res 投喂给一个线性层, 得到最终的 Attention 结果
+2. 对于 $QK^T = Res_1$ 相当于一次查询，对于当前输入信息的一次查询
+3. 将查询的结果 $Res_1$ 进行 $Attention = Softmax(\frac{Res_1}{\sqrt{d_k}}) \times V$ 得到梯度比较平滑的注意力
+4. 将 res 投喂给一个线性层, 得到最终的 Attention 结果
 
 ## 多头注意力机制操作过程
 
