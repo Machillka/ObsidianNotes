@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Transformer/Mult-Headed Attention.md",
+                "file": "Transformer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/Transformer/Mult-Headed Attention.md",
+                "file": "Transformer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Transformer/Mult-Headed Attention.md"
+                "file": "Transformer.md"
               }
             }
           },
@@ -167,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AI/Transformer/Mult-Headed Attention.md"
+                "file": "Transformer.md"
               }
             }
           }
@@ -190,10 +191,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5be581c705856276",
+  "active": "7c2538fa9ff4bcdb",
   "lastOpenFiles": [
-    "Transformer.md",
     "AI/Transformer/Mult-Headed Attention.md",
+    "Transformer.md",
     "AI/DQN.md",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "AI/Transformer",
