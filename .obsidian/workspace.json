@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "848d4ccd03214748",
+        "id": "efb686c9f8d7ffe4",
         "type": "tabs",
         "children": [
           {
-            "id": "857ac97654a3af70",
+            "id": "5be581c705856276",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7HMakers/G1Up/AI 学习计划.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42dc8b896a2014db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mult-Headed Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81d8e1c80ca7e33c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mult-Headed Attention.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mult-Headed Attention.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mult-Headed Attention.md"
+                "file": "AI/Transformer/Mult-Headed Attention.md"
               }
             }
           },
@@ -180,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Mult-Headed Attention.md"
+                "file": "AI/Transformer/Mult-Headed Attention.md"
               }
             }
           }
@@ -203,11 +178,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd5224aff43b7985",
+  "active": "5be581c705856276",
   "lastOpenFiles": [
-    "Untitled",
+    "AI/DQN.md",
+    "Drawing 2023-11-20 16.20.02.excalidraw.md",
+    "AI/Transformer/Mult-Headed Attention.md",
+    "AI/Transformer",
     "7HMakers/G1Up/AI 学习计划.md",
-    "Mult-Headed Attention.md",
     "Untitled.md",
     "Untitled 2.md",
     "班会.md",
@@ -225,13 +202,11 @@
     "Imgs/IMG_20231218_131257.jpg",
     "7HMakers/工程笔记",
     "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
-    "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "School/English/WordsList.md",
     "School/Biology/体液调节.md",
     "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
     "7HMakers/G1Up/CNN.md",
     "7HMakers/G1Up/7H Makers Lesson 3.md",
-    "AI/DQN.md",
     "AI",
     "School/English",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
@@ -245,7 +220,6 @@
     "School",
     "New folder",
     "Excalidraw",
-    "Games",
     "Test.md",
     "$x = (x_1, x_2, ……， x_n)$ Untitled 1.md",
     "诺亚/也许忘记.md",
