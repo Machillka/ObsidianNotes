@@ -6,3 +6,6 @@
 ### Embedding
 
 ### 加入时序信息
+
+
+###  Layer Norm
