@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efb686c9f8d7ffe4",
+        "id": "65fa83a44362de34",
         "type": "tabs",
         "children": [
           {
-            "id": "5be581c705856276",
+            "id": "1d89517e3fbe572c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6f3538f2d395a6f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ResNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ResNet.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ResNet.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ResNet.md"
+                "file": "AI/Transformer/Mult-Headed Attention.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "ResNet.md"
+                "file": "AI/Transformer/Mult-Headed Attention.md"
               }
             }
           }
@@ -191,20 +178,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f3538f2d395a6f2",
+  "active": "1d89517e3fbe572c",
   "lastOpenFiles": [
-    "AI/Transformer/Mult-Headed Attention.md",
-    "ResNet.md",
-    "AI/Untitled",
     "AI/Transformer/Transformer.md",
+    "7HMakers/工程笔记/Engineering Notebook.md",
+    "Untitled.md",
+    "AI/Transformer/Mult-Headed Attention.md",
+    "AI/ResNet.md",
+    "AI/Untitled",
     "AI/DQN.md",
     "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "AI/Transformer",
     "7HMakers/G1Up/AI 学习计划.md",
-    "Untitled.md",
     "Untitled 2.md",
     "班会.md",
-    "7HMakers/工程笔记/Engineering Notebook.md",
     "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
     "Imgs/IMG_20231213_210137.jpg",
     "Imgs/IMG_20231213_210134.jpg",
