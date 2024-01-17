@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65fa83a44362de34",
+        "id": "37b96591e69954ea",
         "type": "tabs",
         "children": [
           {
-            "id": "62e85a86e5545eee",
+            "id": "8c25918aaf7499eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目展示.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "720ca71d803da617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/ResNet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7834b32836db64d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YOLO v3.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YOLO v3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YOLO v3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "YOLO v3.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "YOLO v3.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -203,12 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7834b32836db64d0",
+  "active": "8c25918aaf7499eb",
   "lastOpenFiles": [
+    "项目展示.md",
     "AI/ResNet.md",
     "YOLO v3.md",
     "AI/Transformer/Mult-Headed Attention.md",
-    "项目展示.md",
     "7HMakers/G1Up/AI 学习计划.md",
     "学森计划",
     "AI/Transformer/Transformer.md",
