@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d95473754cb6e3ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Temp.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Temp.md",
+                "file": "AI/Transformer/Mult-Headed Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp.md"
+                "file": "AI/Transformer/Mult-Headed Attention.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Temp.md"
+                "file": "AI/Transformer/Mult-Headed Attention.md"
               }
             }
           }
@@ -191,12 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d95473754cb6e3ae",
+  "active": "01ba4fbd2631f0d7",
   "lastOpenFiles": [
+    "Temp.md",
     "项目展示.md",
     "AI/Transformer/Mult-Headed Attention.md",
     "AI/Transformer/Transformer.md",
-    "Temp.md",
     "Untitled 1.md",
     "AI/ResNet.md",
     "YOLO v3.md",
