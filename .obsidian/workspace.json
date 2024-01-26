@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01ba4fbd2631f0d7",
+            "id": "2b5fb46bc7a5b1b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Transformer/Mult-Headed Attention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4946f58025a0536d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "605字的感想.md",
+                "file": "GNN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "605字的感想.md",
+                "file": "GNN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "605字的感想.md",
+                "file": "GNN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "605字的感想.md"
+                "file": "GNN.md"
               }
             }
           },
@@ -168,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "605字的感想.md"
+                "file": "GNN.md"
               }
             }
           }
@@ -191,50 +178,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4946f58025a0536d",
+  "active": "2b5fb46bc7a5b1b6",
   "lastOpenFiles": [
+    "GNN.md",
+    "Games/Corridor of Darkness.md",
+    "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
+    "班会.md",
+    "7HMakers/G1Up/CNN.md",
+    "7HMakers/G1Up/AI 学习计划.md",
+    "7HMakers/G1Up/7H Makers Lesson 3.md",
+    "AI/DQN.md",
+    "AI/ResNet.md",
+    "AI/Transformer/Transformer.md",
     "AI/Transformer/Mult-Headed Attention.md",
+    "7HMakers/工程笔记/Engineering Notebook.md",
+    "Imgs/vlcsnap-2023-12-21-11h54m49s612.png",
+    "Imgs/IMG_20231218_131257.jpg",
+    "Imgs/IMG_20231213_210134.jpg",
+    "Imgs/Screenshot 2023-12-21 113159.png",
+    "School/English/WordsList.md",
+    "Drawing 2023-11-20 16.20.02.excalidraw.md",
+    "Temp.md",
+    "Untitled 1.md",
+    "YOLO v3.md",
     "605字的感想.md",
     "项目展示.md",
-    "Temp.md",
-    "AI/Transformer/Transformer.md",
-    "Untitled 1.md",
-    "AI/ResNet.md",
-    "YOLO v3.md",
-    "7HMakers/G1Up/AI 学习计划.md",
     "学森计划",
-    "7HMakers/工程笔记/Engineering Notebook.md",
-    "Untitled.md",
     "AI/Untitled",
-    "AI/DQN.md",
-    "Drawing 2023-11-20 16.20.02.excalidraw.md",
     "AI/Transformer",
-    "班会.md",
-    "Excalidraw/Drawing 2023-12-24 10.00.51.excalidraw.md",
     "Imgs/IMG_20231213_210137.jpg",
-    "Imgs/IMG_20231213_210134.jpg",
     "Imgs/IMG_20231218_212313_1.jpg",
     "Imgs/IMG_20231218_212431.jpg",
-    "Imgs/vlcsnap-2023-12-21-11h54m49s612.png",
-    "Imgs/Screenshot 2023-12-21 113159.png",
     "Imgs/IMG_20231218_211909.jpg",
     "Imgs/IMG_20231218_211854.jpg",
     "Imgs/IMG_20231218_211851.jpg",
-    "Imgs/IMG_20231218_131257.jpg",
     "7HMakers/工程笔记",
-    "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
-    "School/English/WordsList.md",
     "School/Biology/体液调节.md",
     "School/Biology/Drawing 2023-11-10 19.07.53.excalidraw.md",
-    "7HMakers/G1Up/CNN.md",
-    "7HMakers/G1Up/7H Makers Lesson 3.md",
     "AI",
     "School/English",
     "Excalidraw/Drawing 2023-11-04 11.43.21.excalidraw.md",
-    "Games/Corridor of Darkness.md",
     "2023-11-06.md",
     "Excalidraw/Drawing 2023-11-04 19.02.09.excalidraw.md",
-    "Neural Network/GAN.md",
     "Imgs",
     "School/Biology",
     "School/New folder",

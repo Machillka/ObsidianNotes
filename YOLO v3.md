@@ -1,3 +1,0 @@
-"You only look once" 
-
-##
