@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37b96591e69954ea",
+        "id": "3df22c2171e65762",
         "type": "tabs",
         "children": [
           {
-            "id": "2b5fb46bc7a5b1b6",
+            "id": "6c39b77a8ea59b8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/ResNet.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/ResNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/ResNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI/ResNet.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "AI/ResNet.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -178,10 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b5fb46bc7a5b1b6",
+  "active": "6c39b77a8ea59b8d",
   "lastOpenFiles": [
-    "Untitled.md",
     "AI/ResNet.md",
+    "Untitled.md",
     "GNN.md",
     "Games/Corridor of Darkness.md",
     "Excalidraw/Drawing 2023-12-14 20.42.03.excalidraw.md",
