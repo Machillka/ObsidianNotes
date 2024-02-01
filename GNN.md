@@ -13,5 +13,7 @@
 
 将该节点的信息与自己的邻居的信息进行整合运算（如加法、取mean等操作），传递给下一层。所以如果层数够深，并且输入图为连接图，则最后输出的图可以更好的得到全局的理解
 
-信息汇聚也可以汇聚其他信息（）
-![[arch_mpnn.a13c2294.png]]
+信息汇聚也可以汇聚其他信息（比如节点的边权、点权等）
+![[arch_mpnn.a13c2294.png]]![[arch_graphnet.b229be6d.png]]
+（图片来源[A Gentle Introduction to Graph Neural Networks (distill.pub)](https://distill.pub/2021/gnn-intro/)）
+
